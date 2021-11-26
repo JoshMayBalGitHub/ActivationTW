@@ -1,0 +1,38 @@
+/home/joshmb/Documents/C# Programs/bin/Debug/net6.0/Console App
+/home/joshmb/Documents/C# Programs/bin/Debug/net6.0/Console App.deps.json
+/home/joshmb/Documents/C# Programs/bin/Debug/net6.0/Console App.runtimeconfig.json
+/home/joshmb/Documents/C# Programs/bin/Debug/net6.0/Console App.dll
+/home/joshmb/Documents/C# Programs/bin/Debug/net6.0/ref/Console App.dll
+/home/joshmb/Documents/C# Programs/bin/Debug/net6.0/Console App.pdb
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/Console App.csproj.AssemblyReference.cache
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/Console App.GeneratedMSBuildEditorConfig.editorconfig
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/Console App.AssemblyInfoInputs.cache
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/Console App.AssemblyInfo.cs
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/Console App.csproj.CoreCompileInputs.cache
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/Console App.MvcApplicationPartsAssemblyInfo.cache
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/staticwebassets.build.json
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/staticwebassets.development.json
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/scopedcss/bundle/Console App.styles.css
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/Console App.dll
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/ref/Console App.dll
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/Console App.pdb
+/home/joshmb/Documents/C# Programs/obj/Debug/net6.0/Console App.genruntimeconfig.cache
+/home/joshmb/Documents/ActivationTW/C#Programs/bin/Debug/net6.0/Console App
+/home/joshmb/Documents/ActivationTW/C#Programs/bin/Debug/net6.0/Console App.deps.json
+/home/joshmb/Documents/ActivationTW/C#Programs/bin/Debug/net6.0/Console App.runtimeconfig.json
+/home/joshmb/Documents/ActivationTW/C#Programs/bin/Debug/net6.0/Console App.dll
+/home/joshmb/Documents/ActivationTW/C#Programs/bin/Debug/net6.0/ref/Console App.dll
+/home/joshmb/Documents/ActivationTW/C#Programs/bin/Debug/net6.0/Console App.pdb
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/Console App.csproj.AssemblyReference.cache
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/Console App.GeneratedMSBuildEditorConfig.editorconfig
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/Console App.AssemblyInfoInputs.cache
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/Console App.AssemblyInfo.cs
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/Console App.csproj.CoreCompileInputs.cache
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/Console App.MvcApplicationPartsAssemblyInfo.cache
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/staticwebassets.build.json
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/staticwebassets.development.json
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/scopedcss/bundle/Console App.styles.css
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/Console App.dll
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/ref/Console App.dll
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/Console App.pdb
+/home/joshmb/Documents/ActivationTW/C#Programs/obj/Debug/net6.0/Console App.genruntimeconfig.cache
