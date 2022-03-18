@@ -2,7 +2,7 @@
 ActivationTW, a idea i had for ""activating"" my game.
 
 
-## Setup.sh
+## Downloading from source / Setup.sh
 Keep in mind that the Setup.sh deoends on the directory being:
 
  ./C#Programs/"Console App".csproj
