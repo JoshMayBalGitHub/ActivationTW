@@ -11,8 +11,4 @@ Keep in mind that the Setup.sh depends on the directory being:
  
  ### Setup.sh executable problems
  
- Also, **Note,** for some reason i can not make Setup.sh executable in github so you gonna have to do it yourself. 
- 
- Also, i just realized that github doesnt save it, when displaying source code, it doesnt save unix permissions but .zip, .tar, any compression stuff fixes that, because it keeps it, idk why it works like that...
- 
- I hate it so much...
+ If you are running Unix-like Operating Systems like Linux, BSD or MacOS, you might have to make Setup.sh executable, because github doesnt save unix permissions, so yeah, a reminder.
