@@ -13,3 +13,6 @@ Keep in mind that the Setup.sh depends on the directory being:
  If you are running Unix-like Operating Systems like Linux, BSD or MacOS, you might have to make Setup.sh executable, because github doesnt save unix permissions, so yeah, a reminder.
  
  For more Information: https://github.com/JoshMayBalGitHub/ActivationTW/wiki#setupsh-executable-problems
+ 
+ ### Dolphin File Manager on Linux
+ https://github.com/JoshMayBalGitHub/ActivationTW/wiki#dolphin-file-manager-on-linux
