@@ -1,5 +1,9 @@
 # ActivationTW
-ActivationTW, a idea i had for ""activating"" my game.
+ActivationTW, a idea i had for ""activating"" my game
+
+Also its kinda funny, that it doesnt actually activate or install anything....
+
+especially activate, i havent implemented it yet.
 
 
 ## Downloading from source / Setup.sh
