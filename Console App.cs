@@ -3,8 +3,6 @@ using System;
 class Program {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Fuck you World!");
-
          Fb:
     Console.WriteLine("Welcome to the Installation of Text Wars.");
     Console.WriteLine("To begin, say Y ");
