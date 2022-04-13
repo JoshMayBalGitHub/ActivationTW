@@ -1,0 +1,5 @@
+/home/joshmb/Documents/C# Programs/bin/Release/net6.0/publish/Console App
+/home/joshmb/Documents/C# Programs/bin/Release/net6.0/publish/Console App.dll
+/home/joshmb/Documents/C# Programs/bin/Release/net6.0/publish/Console App.deps.json
+/home/joshmb/Documents/C# Programs/bin/Release/net6.0/publish/Console App.runtimeconfig.json
+/home/joshmb/Documents/C# Programs/bin/Release/net6.0/publish/Console App.pdb
