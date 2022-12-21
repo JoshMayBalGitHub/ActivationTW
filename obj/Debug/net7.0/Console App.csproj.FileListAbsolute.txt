@@ -1,0 +1,24 @@
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/bin/Debug/net7.0/Console App
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/bin/Debug/net7.0/Console App.deps.json
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/bin/Debug/net7.0/Console App.runtimeconfig.json
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/bin/Debug/net7.0/Console App.dll
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/bin/Debug/net7.0/Console App.pdb
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/Console App.csproj.AssemblyReference.cache
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/Console App.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/Console App.AssemblyInfoInputs.cache
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/Console App.AssemblyInfo.cs
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/Console App.csproj.CoreCompileInputs.cache
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/Console App.MvcApplicationPartsAssemblyInfo.cache
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/staticwebassets/msbuild.Console App.Microsoft.AspNetCore.StaticWebAssets.props
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/staticwebassets/msbuild.build.Console App.props
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Console App.props
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Console App.props
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/staticwebassets.pack.json
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/staticwebassets.build.json
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/staticwebassets.development.json
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/scopedcss/bundle/Console App.styles.css
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/Console App.dll
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/refint/Console App.dll
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/Console App.pdb
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/Console App.genruntimeconfig.cache
+/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/Debug/net7.0/ref/Console App.dll
