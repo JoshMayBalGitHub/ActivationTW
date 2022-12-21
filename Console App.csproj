@@ -3,7 +3,7 @@
 
   <PropertyGroup>
     <!-- TargetFramework is the framework this project will be using, which in this case is .NET 5. -->
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
   </PropertyGroup>
 
 
