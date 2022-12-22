@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Console App/1.0.0": {
+      "ActivationTW/1.0.0": {
         "runtime": {
-          "Console App.dll": {}
+          "ActivationTW.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Console App/1.0.0": {
+    "ActivationTW/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

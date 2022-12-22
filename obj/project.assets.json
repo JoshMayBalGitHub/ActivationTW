@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/Console App.csproj",
-      "projectName": "Console App",
-      "projectPath": "/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/Console App.csproj",
+      "projectUniqueName": "/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/ActivationTW.csproj",
+      "projectName": "ActivationTW",
+      "projectPath": "/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/ActivationTW.csproj",
       "packagesPath": "/home/joshlenovo/.nuget/packages/",
       "outputPath": "/run/media/joshlenovo/Expansion/Linux_Storage/test_csharp/ActivationTW/obj/",
       "projectStyle": "PackageReference",
