@@ -3,6 +3,15 @@ using System;
 class Program {
     public static void Main(string[] args)
     {
+    Console.WriteLine("Activation Key: ");
+    string activationkey = Console.ReadLine();
+    if (activationkey == "dkjsfbhdklshfklsdfnhkljsfbnsdm,gdskjgfbdns,mgfemljsofk';s,mfs.fdjs;lsif;dskfkldshfsds") {
+        Console.WriteLine("Thank you.");
+    } 
+    else {
+        Console.WriteLine("WRONG, EXITING...");
+        Environment.Exit(1);
+    }
          Fb:
     Console.WriteLine("Welcome to the Installation of Text Wars.");
     Console.WriteLine("To begin, say Y ");
